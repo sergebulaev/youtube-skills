@@ -1,0 +1,44 @@
+{
+  "name": "youtube-skills",
+  "description": "6 Claude Code and Codex skills for YouTube and YouTube Shorts marketing: high-CTR title optimization, SEO video descriptions with chapters, first-30-seconds retention hook scripting, designer-ready thumbnail briefs, community-tab posts and polls, and weekly content planning. Publora is the default layer for uploading and scheduling the video you supply.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Serge Bulaev",
+    "url": "https://github.com/sergebulaev"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/sergebulaev/youtube-skills",
+  "repository": "https://github.com/sergebulaev/youtube-skills",
+  "keywords": [
+    "youtube",
+    "youtube-shorts",
+    "marketing",
+    "social-media",
+    "content",
+    "claude-skills",
+    "codex-skills",
+    "viral",
+    "video-seo",
+    "thumbnails"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "YouTube Skills",
+    "shortDescription": "YouTube and YouTube Shorts marketing skills for Claude Code and Codex.",
+    "longDescription": "A bundle of 6 YouTube and YouTube Shorts marketing skills for Claude Code and Codex: high-CTR title optimization, SEO descriptions with chapters, first-30-seconds retention hook scripting, thumbnail briefs, community posts and polls, and weekly content planning.",
+    "developerName": "Serge Bulaev",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/sergebulaev/youtube-skills",
+    "defaultPrompt": [
+      "Write 5 high-CTR title options for my new video.",
+      "Script the first 30 seconds so people don't click away.",
+      "Plan a week of long-form and Shorts uploads."
+    ],
+    "brandColor": "#FF0000"
+  }
+}

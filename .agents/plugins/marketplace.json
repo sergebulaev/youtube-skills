@@ -1,0 +1,20 @@
+{
+  "name": "youtube-skills",
+  "interface": {
+    "displayName": "YouTube Skills"
+  },
+  "plugins": [
+    {
+      "name": "youtube-skills",
+      "source": {
+        "source": "local",
+        "path": "./.codex-marketplace/youtube-skills"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

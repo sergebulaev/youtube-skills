@@ -1,0 +1,39 @@
+{
+  "name": "youtube-skills",
+  "owner": {
+    "name": "Serge Bulaev",
+    "url": "https://github.com/sergebulaev"
+  },
+  "metadata": {
+    "description": "Claude Code and Codex skills for YouTube and YouTube Shorts growth: high-CTR title optimization, SEO descriptions with chapters, first-30-seconds retention hook scripts, designer-ready thumbnail briefs, community posts and polls, and weekly content planning. The video you supply uploads and schedules through the Publora API."
+  },
+  "plugins": [
+    {
+      "name": "youtube-skills",
+      "source": "./",
+      "description": "Bundle of 6 YouTube and YouTube Shorts marketing skills for Claude Code and Codex with click-through title formulas, SEO descriptions plus chapters, first-30-seconds and 3-second Shorts retention hooks, thumbnail design briefs, community-tab posts and polls, and a weekly long-form vs Shorts content planner. The video you supply uploads and schedules via Publora.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Serge Bulaev",
+        "url": "https://github.com/sergebulaev"
+      },
+      "homepage": "https://github.com/sergebulaev/youtube-skills",
+      "license": "MIT",
+      "keywords": [
+        "youtube",
+        "youtube-shorts",
+        "marketing",
+        "social-media",
+        "content-creation",
+        "claude-skills",
+        "codex-skills",
+        "anthropic",
+        "video-seo",
+        "creator-economy",
+        "thumbnails",
+        "viral-content"
+      ],
+      "category": "productivity"
+    }
+  ]
+}
