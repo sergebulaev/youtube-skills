@@ -26,6 +26,23 @@ Formulas Y1-Y6 are **title (packaging) shapes** built for CTR. Y7-Y9 are
 **Shorts 3-second hook**. Pair a title formula with an opening-hook formula so
 the promise the title makes is the promise the first line keeps.
 
+## Contents
+
+- Y1 - Curiosity-Gap Title
+- Y2 - Number / Listicle Title
+- Y3 - How-I Outcome Title
+- Y4 - Mistake / Negativity Title
+- Y5 - Transformation / Before-After Title
+- Y6 - Versus / Comparison Title
+- Y7 - Restate-and-Raise Opening Hook (long-form, first 30s)
+- Y8 - Cold-Open Payoff Tease (long-form, first 30s)
+- Y9 - Question-and-Contract Opening Hook (long-form, first 30s)
+- Y10 - Shorts 3-Second Hook
+- Goal split
+- Pairing table (title -> opening hook)
+- Hook micro-rules (YouTube-specific)
+- Never do
+
 ---
 
 ## Y1 - Curiosity-Gap Title

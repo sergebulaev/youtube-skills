@@ -4,6 +4,20 @@ Synthesized from YouTube's public Creator Insider statements, the published
 behavior of the browse / suggested / search systems, and observed creator data.
 Numbers marked "reported" are community-measured, not officially confirmed.
 
+## Contents
+
+- The core model: CTR x retention, optimized for satisfaction
+- Signal weights (relative reach impact)
+- The first 30 seconds (long-form)
+- The first 3 seconds (Shorts)
+- Packaging (title + thumbnail)
+- Reach suppressors (avoid)
+- Reach amplifiers
+- Character and format limits
+- Long-form vs Shorts strategy
+- Timing
+- Pre-publish checklist
+
 ## The core model: CTR x retention, optimized for satisfaction
 
 YouTube does not rank "views". It predicts and optimizes **satisfied watch-time**

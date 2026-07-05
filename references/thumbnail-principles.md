@@ -6,6 +6,20 @@ shared design language the `yt-thumbnail-brief` skill turns into a brief a
 designer (or an image tool) can execute. It is principles, not a Photoshop
 manual.
 
+## Contents
+
+- The one job
+- The five non-negotiables
+- Title and thumbnail are a pair
+- Composition cues
+- Text rules
+- Faces
+- Shorts thumbnails
+- Consistency vs novelty
+- A/B testing
+- The brief the skill produces
+- The update-post thumbnail flow (when auto-publishing)
+
 ## The one job
 
 A thumbnail's only job is to make the right viewer stop and click, then have the
