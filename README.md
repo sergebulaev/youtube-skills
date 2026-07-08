@@ -67,6 +67,14 @@ git clone https://github.com/sergebulaev/youtube-skills.git
 cd youtube-skills
 ```
 
+### Any agent (skills CLI)
+
+One command that works across Claude Code, Codex, Cursor, and any other agent that reads SKILL.md files:
+
+```bash
+npx skills add sergebulaev/youtube-skills
+```
+
 ## What you can do
 
 Once installed, just ask Claude Code or Codex for help with YouTube. The right skill activates automatically.
