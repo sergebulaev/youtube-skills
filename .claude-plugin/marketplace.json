@@ -12,7 +12,7 @@
       "name": "youtube-skills",
       "source": "./",
       "description": "Bundle of 6 YouTube and YouTube Shorts marketing skills for Claude Code and Codex with click-through title formulas, SEO descriptions plus chapters, first-30-seconds and 3-second Shorts retention hooks, thumbnail design briefs, community-tab posts and polls, and a weekly long-form vs Shorts content planner. The video you supply uploads and schedules via Publora.",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "author": {
         "name": "Serge Bulaev",
         "url": "https://github.com/sergebulaev"
