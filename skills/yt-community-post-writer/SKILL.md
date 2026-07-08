@@ -34,8 +34,12 @@ limitation of the draft tier. (Videos and Shorts do auto-upload through Publora.
 
 ## Steps
 
-1. **Gather inputs.** The goal (tease a video, source ideas, follow up, keep
-   warm), the topic, the channel's voice, and the post type. If the post relates
+1. **Gather inputs, goal first.** Ask (or infer) what the post should earn
+   before picking a format, then map goal to format: tease a video -> image or
+   text teaser with a curiosity gap; source ideas / decide content -> poll;
+   follow up on a video -> text post replying to top comments; keep warm
+   between uploads -> behind-the-scenes image or quiz. Then gather the topic,
+   the channel's voice, and confirm the post type fits the goal. If the post relates
    to a specific video, take the URL and parse it with `lib/url_parser.py`.
 2. **Pick the type.** A poll for input or low-effort engagement; a text update
    for a tease or note; an image caption for a visual teaser; a question to drive
