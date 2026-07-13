@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/PRs-welcome-F59E0B.svg" alt="PRs Welcome">
 </p>
 
-6 skills that help Claude Code and Codex grow a YouTube channel: high-CTR titles, SEO descriptions with chapters, retention hook scripts for long-form and YouTube Shorts, designer-ready thumbnail briefs, community-tab posts, and weekly upload plans. You supply the video; the skills write the packaging and, on approval, upload and schedule it. No coding required.
+7 skills that help Claude Code and Codex grow a YouTube channel: high-CTR titles, SEO descriptions with chapters, retention hook scripts for long-form and YouTube Shorts, designer-ready thumbnail briefs, community-tab posts, cross-platform content repurposing, and weekly upload plans. You supply the video; the skills write the packaging and, on approval, upload and schedule it. No coding required.
 
 ## Install
 
@@ -124,7 +124,7 @@ Once installed, just ask Claude Code or Codex for help with YouTube. The right s
 
 Every skill shows you a draft first and waits for your OK. Nothing gets published without your approval.
 
-## The 6 skills
+## The 7 skills
 
 | Skill | What it does |
 |---|---|
@@ -134,6 +134,7 @@ Every skill shows you a draft first and waits for your OK. Nothing gets publishe
 | **Thumbnail Brief** | Turns a video into a designer-ready brief (focal subject, face/emotion, 4-word text overlay, contrast, composition) plus 2 to 3 A/B concepts and the upload flow |
 | **Community Post Writer** | Writes community-tab text posts, polls, and questions that keep the channel warm between uploads. Returns a copy-paste block (community posts have no API) |
 | **Content Planner** | Builds a weekly plan: long-form vs Shorts mix, cadence, per-slot title and thumbnail pairing, hook angle, community posts, and a CTR / retention / subscribe goal balance |
+| **Repurposer** | Adapts off-platform content (a blog post, X thread, LinkedIn post, or newsletter) into a native YouTube surface: a community-tab post or poll, or a video brief (title, spoken hook, description with chapters). Leads with the payoff and strips off-platform artifacts |
 
 ## How publishing works on YouTube
 
