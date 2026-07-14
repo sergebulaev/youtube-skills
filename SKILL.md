@@ -5,7 +5,7 @@ description: Plan, write, and publish for YouTube and YouTube Shorts. Use when t
 
 # YouTube Marketing Skills
 
-A bundle of 7 focused skills for YouTube content ops in 2026, covering both
+A bundle of 8 focused skills for YouTube content ops in 2026, covering both
 long-form and YouTube Shorts. Each skill is single-purpose, follows the draft
 then approval then publish pattern, and uses the [Publora API](https://publora.com)
 for uploading and scheduling the video you supply.
@@ -19,6 +19,7 @@ for uploading and scheduling the video you supply.
 - **Writing a community-tab post or poll** -> use `yt-community-post-writer`
 - **Planning a week of uploads** (long-form vs Shorts mix, title/thumbnail pairing) -> use `yt-content-planner`
 - **Repurposing off-platform content** (a blog post, thread, or LinkedIn post) into a YouTube community post or a video brief -> use `yt-repurposer`
+- **Auditing and rewriting the channel page** (banner, trailer, About, playlists, section order) to convert viewers into subscribers -> use `yt-channel-optimizer`
 
 ## Core pattern
 

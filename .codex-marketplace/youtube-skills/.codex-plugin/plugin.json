@@ -1,7 +1,7 @@
 {
   "name": "youtube-skills",
-  "description": "7 Claude Code and Codex skills for YouTube and YouTube Shorts marketing: high-CTR title optimization, SEO video descriptions with chapters, first-30-seconds retention hook scripting, designer-ready thumbnail briefs, community-tab posts and polls, cross-platform content repurposing, and weekly content planning. Publora is the default layer for uploading and scheduling the video you supply.",
-  "version": "1.0.6",
+  "description": "8 Claude Code and Codex skills for YouTube and YouTube Shorts marketing: high-CTR title optimization, SEO video descriptions with chapters, first-30-seconds retention hook scripting, designer-ready thumbnail briefs, community-tab posts and polls, cross-platform content repurposing, weekly content planning, and a channel-page audit that converts viewers into subscribers. Publora is the default layer for uploading and scheduling the video you supply.",
+  "version": "1.0.7",
   "author": {
     "name": "Serge Bulaev",
     "url": "https://github.com/sergebulaev"
@@ -25,7 +25,7 @@
   "interface": {
     "displayName": "YouTube Skills",
     "shortDescription": "YouTube and YouTube Shorts marketing skills for Claude Code and Codex.",
-    "longDescription": "A bundle of 7 YouTube and YouTube Shorts marketing skills for Claude Code and Codex: high-CTR title optimization, SEO descriptions with chapters, first-30-seconds retention hook scripting, thumbnail briefs, community posts and polls, cross-platform content repurposing, and weekly content planning.",
+    "longDescription": "A bundle of 8 YouTube and YouTube Shorts marketing skills for Claude Code and Codex: high-CTR title optimization, SEO descriptions with chapters, first-30-seconds retention hook scripting, thumbnail briefs, community posts and polls, cross-platform content repurposing, weekly content planning, and a channel-page audit that converts viewers into subscribers.",
     "developerName": "Serge Bulaev",
     "category": "Productivity",
     "capabilities": [
