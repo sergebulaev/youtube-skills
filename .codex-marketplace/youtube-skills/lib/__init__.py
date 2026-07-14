@@ -8,6 +8,7 @@ re-exported here.
 from .url_parser import parse_youtube_url
 from .publora_client import PubloraClient, PubloraError
 from .approval import render_approval_card
+from .youtube_client import YouTubeClient, YouTubeError, YouTubeAuthError
 from .backend_selector import (
     active_backend,
     manual_mode_message,
@@ -22,4 +23,7 @@ __all__ = [
     "active_backend",
     "manual_mode_message",
     "publish",
+    "YouTubeClient",
+    "YouTubeError",
+    "YouTubeAuthError",
 ]
