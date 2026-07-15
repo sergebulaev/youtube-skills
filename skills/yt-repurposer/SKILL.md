@@ -113,7 +113,7 @@ rules:
 
 ## Resources
 
-- `../../references/hook-formulas.md` - the 10 YouTube title and hook formulas to re-hook with
+- `../../references/hook-formulas.md` - the 11 YouTube title and hook formulas to re-hook with
 - `../../references/algorithm-heuristics.md` - 2026 YouTube ranking (CTR x retention), timing, limits
 - `../../references/voice-rules.md` - the canonical voice rules the receiving writer skills inherit
 
