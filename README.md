@@ -128,7 +128,7 @@ Every skill shows you a draft first and waits for your OK. Nothing gets publishe
 
 | Skill | What it does |
 |---|---|
-| **Title Optimizer** | Writes high-CTR titles under 100 chars using 2026 formulas (curiosity, number, how-I, mistake, transformation, versus). Front-loads the words that decide the click and returns 3 to 5 A/B variants tagged by goal |
+| **Title Optimizer** | Writes high-CTR titles under 100 chars using 2026 formulas (curiosity, number, how-I, mistake, transformation, versus, success-story). Front-loads the words that decide the click and returns 3 to 5 A/B variants tagged by goal |
 | **Description Writer** | Writes the full description under 5,000 chars: a first-150-char hook (the only part visible before "Show more"), timestamped chapters, natural keywords, links, and a real CTA |
 | **Hook Scripter** | Scripts the spoken opening that decides retention: the first 30 seconds of a long-form video, or the first 3 seconds of a Short, with no intro and a designed loop |
 | **Thumbnail Brief** | Turns a video into a designer-ready brief (focal subject, face/emotion, 4-word text overlay, contrast, composition) plus 2 to 3 A/B concepts and the upload flow |
@@ -219,7 +219,7 @@ Every skill follows these rules automatically:
 
 ## Cross-cutting references
 
-- [`references/hook-formulas.md`](references/hook-formulas.md) - the 10 YouTube title and hook formulas with skeletons and goal tags
+- [`references/hook-formulas.md`](references/hook-formulas.md) - the 11 YouTube title and hook formulas with skeletons and goal tags
 - [`references/algorithm-heuristics.md`](references/algorithm-heuristics.md) - 2026 YouTube ranking (CTR x retention), timing, and limits
 - [`references/thumbnail-principles.md`](references/thumbnail-principles.md) - the thumbnail design language and the upload flow
 - [`references/voice-rules.md`](references/voice-rules.md) - the canonical voice rules every skill inherits
