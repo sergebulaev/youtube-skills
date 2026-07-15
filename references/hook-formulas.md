@@ -34,6 +34,7 @@ the promise the title makes is the promise the first line keeps.
 - Y4 - Mistake / Negativity Title
 - Y5 - Transformation / Before-After Title
 - Y6 - Versus / Comparison Title
+- Y11 - Third-Party Success Story Title
 - Y7 - Restate-and-Raise Opening Hook (long-form, first 30s)
 - Y8 - Cold-Open Payoff Tease (long-form, first 30s)
 - Y9 - Question-and-Contract Opening Hook (long-form, first 30s)
@@ -91,6 +92,13 @@ parenthetical tease on one item adds a curiosity gap on top of the structure.
 **Warning:** Padding to a round number dilutes the payoff. 5 real tips beat 10
 weak ones, and the retention graph shows the filler.
 
+**Corpus caveat (214-video pull, July 2026, business/creator niches):** the pure
+listicle was *rare* among real over-performers. When a number won, it almost
+always served an income or effort claim ("$24,937/mo", "I tried 12 passive
+income ideas to make ₹1,00,000", "1,000 hours of funnels in 42 minutes"), not a
+clean "N tips" list. Treat the raw listicle as niche-dependent; the number pulls
+harder attached to a money or time-invested frame (see Y3 and Y11).
+
 ---
 
 ## Y3 - How-I Outcome Title
@@ -110,6 +118,18 @@ How I got my first 1000 subscribers in 28 days (no ads)
 **Why:** "How I" beats "How to" because a lived result carries proof a generic
 tutorial does not. The number and timeframe are the credibility anchor, and the
 parenthetical constraint ("no ads", "with a free tool") sharpens the promise.
+
+**Odd-precision money sub-variant (corpus-corroborated, July 2026):** the
+strongest-pulling version leads with a non-round dollar figure plus a tight
+timeframe and often a named tool. This recurred across mid-size channels:
+
+```
+How I Make $24,937/mo {doing X} (Using {named tool})
+I Just Used {tool} To Make $5,000 In 24 Hours
+```
+
+The exact figure ($24,937, not "$25k") is the click driver: it reads as a real
+ledger, not a vibe. For a third-party version of the same money hook, see Y11.
 
 **Warning:** The result must be true and yours. A borrowed or inflated number
 gets called out in the comments and tanks trust.
@@ -137,6 +157,11 @@ be in the video, fast, or it reads as fearmongering.
 
 **Warning:** Do not manufacture a problem that is not real. Cynical fear-bait
 gets the click and loses the subscribe.
+
+**Corpus caveat (July 2026):** loss-aversion titles were essentially *absent*
+among over-performers in the business/creator pull. The formula is real in gear
+and tutorial niches, but this corpus gives it no support, so do not treat "Stop
+doing X" as a proven over-performer for business/marketing content specifically.
 
 ---
 
@@ -185,6 +210,44 @@ the same thing in both" framing promises a fair test, not a fanboy take.
 
 **Warning:** A rigged comparison reads as sponsored even when it is not. Show the
 real tradeoff or you lose the comment section.
+
+**Corpus caveat (July 2026):** zero versus titles appeared in the
+business/creator pull. This is a strong formula in gear/software/tooling niches
+where people search exact product names, but it is niche-dependent, not a general
+over-performer shape for business content.
+
+---
+
+## Y11 - Third-Party Success Story Title
+
+**Goal: ctr.** You narrate someone else's rags-to-riches result: a named person
+or archetype who built a big number from nothing. This was the single
+most-frequent English long-form title shape in a 214-video pull (July 2026), and
+it recurred across mid-to-large channels (not just micro-channel flukes), yet
+Y1-Y6 had no formula for it.
+
+```
+How {named person or archetype} Built {big round number} From {Zero / Nothing} | {Untold} Story
+```
+
+Worked shapes (real corpus titles):
+
+```
+How Harsh Mariwala Built a Rs 1 Lakh Crore Brand From Zero | Marico Success Story
+He Left SpaceX to Change How Homes Are Built
+16-Year-Old CEO Built an AI Startup
+```
+
+**Why:** It is curiosity-gap-adjacent (Y1) but has its own stable grammar:
+person + built + big number + from-zero/untold. The pull is aspiration through a
+proxy, the viewer wants the mechanism behind an outsized outcome without the
+poster having to own the result. This mirrors the third-person case-study shape
+that also tops X, so it is a cross-platform pattern, not a YouTube quirk.
+
+**Warning:** The number and the story have to be real and checkable. An inflated
+"crore" or a fabricated arc gets fact-checked in the comments and burns the
+channel's credibility. Name a real person or a genuinely representative
+archetype, not a strawman.
 
 ---
 
@@ -296,9 +359,22 @@ that keeps the promise.
 
 | Goal | Earned by | Formulas |
 |---|---|---|
-| **ctr** | curiosity gaps, numbers, first-person results, loss framing, comparisons | Y1, Y2, Y3, Y4, Y5, Y6 |
+| **ctr** | curiosity gaps, numbers, first-person results, loss framing, comparisons, third-party success stories | Y1, Y2, Y3, Y4, Y5, Y6, Y11 |
 | **retention** | restate-and-raise, cold-open payoff, fast honest answers, 3-sec Shorts hooks | Y7, Y8, Y9, Y10 |
 | **subscribes** | honest answers plus a bonus, a clear "more like this is coming" close | Y9, plus the end-screen ask in any video |
+
+**Corpus note (214-video pull, July 2026, business/creator niches, normalized by
+subscriber count).** Validated Y1/Y3/Y5 as the confirmed over-performing title
+shapes and added Y11 (third-party success story), the highest-frequency
+uncaptured pattern. Two honest boundaries: (1) only the title formulas (Y1-Y6,
+Y11) are testable from this data. The opening-hook and Shorts formulas (Y7-Y10)
+live in the video's first seconds, which metadata does not expose, so they are
+neither confirmed nor refuted here. (2) After cleaning non-English (a lot of
+transliterated Hindi/Spanish slipped the language filter) and tag-only
+compilations, the clean sample skews heavily to long-form. Y1/Y3/Y5 are
+long-form-confirmed; the surviving Shorts titles are too few to validate a
+Shorts-specific title formula, consistent with the bundle's own thesis that on
+Shorts the title matters less than the first frame.
 
 ## Pairing table (title -> opening hook)
 
@@ -310,6 +386,7 @@ that keeps the promise.
 | Y4 Mistake / Negativity | Y7 Restate-and-Raise | name the cost, then the fix |
 | Y5 Transformation | Y8 Cold-Open Payoff | flash the after, cut to the before |
 | Y6 Versus / Comparison | Y9 Question-and-Contract | answer "which wins" fast, then the nuance |
+| Y11 Third-Party Success Story | Y8 Cold-Open Payoff | flash the outsized result, then trace how they got there |
 | Any Short | Y10 Shorts 3-Second | the title matters less; the first frame is everything |
 
 ## Hook micro-rules (YouTube-specific)

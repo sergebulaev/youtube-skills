@@ -26,8 +26,12 @@ final pick (and the A/B test) to you.
 | Y4 | Mistake / Negativity | a costly thing the viewer is getting wrong |
 | Y5 | Transformation | a before/after arc over a timeframe |
 | Y6 | Versus / Comparison | two named options in tension (search-friendly) |
+| Y11 | Third-Party Success Story | a named person/archetype who built a big number from zero |
 
-Full skeletons in `../../references/hook-formulas.md`.
+Full skeletons in `../../references/hook-formulas.md`. Y11 was added from a
+214-video corpus pull (July 2026) where the third-party rags-to-riches title was
+the most-frequent uncaptured shape; Y1/Y3/Y5 were the confirmed over-performers,
+and Y2/Y4/Y6 read weaker in the business/creator niche (noted in the reference).
 
 ## Steps
 
