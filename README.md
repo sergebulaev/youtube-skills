@@ -14,7 +14,18 @@
   <img src="https://img.shields.io/badge/PRs-welcome-F59E0B.svg" alt="PRs Welcome">
 </p>
 
-9 skills that help Claude Code and Codex grow a YouTube channel: high-CTR titles, SEO descriptions with chapters, retention hook scripts for long-form and YouTube Shorts, designer-ready thumbnail briefs, community-tab posts, cross-platform content repurposing, weekly upload plans, and a channel-page audit that converts viewers into subscribers. You supply the video; the skills write the packaging and, on approval, upload and schedule it. No coding required.
+> **Part of the [linkedin-skills](https://github.com/sergebulaev/linkedin-skills) family (400+ stars).** Same voice engine and approve-before-publish flow, now for YouTube. Also available for [Instagram](https://github.com/sergebulaev/instagram-skills) · [X](https://github.com/sergebulaev/x-skills) · [TikTok](https://github.com/sergebulaev/tiktok-skills) · [Threads](https://github.com/sergebulaev/threads-skills) · [Facebook](https://github.com/sergebulaev/facebook-skills).
+
+**9 skills that turn Claude Code and Codex into your YouTube packaging team.** They write high-CTR titles and SEO descriptions, script retention hooks for long-form and Shorts, brief thumbnails, draft community posts, and audit your channel page. You supply the video; the skills write the packaging, strip the AI tells, and wait for your approval.
+
+Once installed, just ask Claude Code or Codex things like:
+
+- "Write 5 high-CTR titles for a video about [topic]"
+- "Script the first 30 seconds to keep viewers watching"
+- "Answer this comment as a community post"
+- "What's working in my niche on YouTube? (reads real data)"
+
+The right skill activates automatically. Then you review and approve.
 
 ## Install
 
