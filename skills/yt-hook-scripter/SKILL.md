@@ -29,6 +29,8 @@ Full skeletons in `../../references/hook-formulas.md`.
 
 ## Steps
 
+**Voice profile first (all drafts).** If `../../references/voice-profile.md` has `filled: yes`, load it and match the user's voice fingerprint, hard rules, and CTA/link style throughout. If it is not filled, mention once that `yt-community-post-writer --mode profile` can learn their voice from a few posts, then proceed with the generic voice rules.
+
 1. **Gather inputs.** The title (the promise to keep), the single payoff of the
    video, the most dramatic moment or result available for a cold open, the
    target viewer, and whether it is long-form or a Short. If a URL is given,

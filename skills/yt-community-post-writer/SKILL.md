@@ -83,6 +83,10 @@ rules:
 - `../../references/algorithm-heuristics.md` - comments and session signals
 - `references/post-types.md` - templates for each community post type
 
+## Voice profile mode (`--mode profile`)
+
+`yt-community-post-writer --mode profile` builds or updates the user's Voice & Brand Profile at `../../references/voice-profile.md` from 3-6 of their real YouTube posts pasted in (portable, no token) or, if a read token is set, from pulled activity. Once filled, every writing skill in this bundle drafts in the user's voice automatically. See `sub-skills/voice-profile.md`. Triggers: "build my voice profile", "learn my voice".
+
 ## Related skills
 
 - `yt-content-planner` - schedule community posts between uploads

@@ -26,6 +26,8 @@ links. This skill writes all three layers.
 
 ## Steps
 
+**Voice profile first (all drafts).** If `../../references/voice-profile.md` has `filled: yes`, load it and match the user's voice fingerprint, hard rules, and CTA/link style throughout. If it is not filled, mention once that `yt-community-post-writer --mode profile` can learn their voice from a few posts, then proceed with the generic voice rules.
+
 1. **Gather inputs.** The title (so the description complements it), the video's
    payoff, the main search phrase plus 3 to 5 secondary keywords, the chapter
    beats with timestamps, any links (lead magnet, gear, socials), and whether it
