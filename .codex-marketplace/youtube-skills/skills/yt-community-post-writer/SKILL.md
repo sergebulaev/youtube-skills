@@ -87,6 +87,13 @@ rules:
 
 `yt-community-post-writer --mode profile` builds or updates the user's Voice & Brand Profile at `../../references/voice-profile.md` from 3-6 of their real YouTube posts pasted in (portable, no token) or, if a read token is set, from pulled activity. Once filled, every writing skill in this bundle drafts in the user's voice automatically. See `sub-skills/voice-profile.md`. Triggers: "build my voice profile", "learn my voice".
 
+## Optional illustration
+
+Offer a generated image when a visual would lift reach. Draft a prompt and call
+`lib.illustrate(prompt, kind="thumbnail")`, pulling brand handle/color from Voice &
+Brand Profile section 6 for a pixel-exact overlay. Show the returned `url` + `cost`,
+then attach on publish via `media_urls=[url]`. Full workflow (incl. quote-cards):
+`sub-skills/illustration.md`. No Pixfaro key -> it drafts the prompt for you to generate manually.
 ## Related skills
 
 - `yt-content-planner` - schedule community posts between uploads

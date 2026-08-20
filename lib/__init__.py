@@ -7,12 +7,15 @@ re-exported here.
 """
 from .url_parser import parse_youtube_url
 from .publora_client import PubloraClient, PubloraError
+from .pixfaro_client import PixfaroClient, PixfaroError
 from .approval import render_approval_card
 from .youtube_client import YouTubeClient, YouTubeError, YouTubeAuthError
 from .backend_selector import (
+    image_backend,
     active_backend,
     manual_mode_message,
     publish,
+    illustrate,
 )
 
 __all__ = [
@@ -26,4 +29,8 @@ __all__ = [
     "YouTubeClient",
     "YouTubeError",
     "YouTubeAuthError",
+    "PixfaroClient",
+    "PixfaroError",
+    "image_backend",
+    "illustrate",
 ]
