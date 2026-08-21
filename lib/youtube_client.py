@@ -213,6 +213,7 @@ class YouTubeClient:
     def fetch_trending(self, region_code: str = "US", category_id: Optional[str] = None,
                        max_results: int = 25, force_refresh: bool = False) -> list[dict]:
         """Most-popular videos (1 unit, no search cost). category_id filters to a niche."""
+        max_results = min(50, max_results)  # API hard-caps mostPopular at 50; keep cache key honest
         ck = f"trending:{region_code}:{category_id}:{max_results}"
         if not force_refresh and (c := self._cache_get(ck)) is not None:
             return c

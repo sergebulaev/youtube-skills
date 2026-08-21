@@ -92,7 +92,7 @@ rules:
 Offer a generated image when a visual would lift reach. Draft a prompt and call
 `lib.illustrate(prompt, kind="thumbnail")`, pulling brand handle/color from Voice &
 Brand Profile section 6 for a pixel-exact overlay. Show the returned `url` + `cost`,
-then attach on publish via `media_urls=[url]`. Full workflow (incl. quote-cards):
+the community tab has no media API, so upload the approved image yourself with the post (it cannot be auto-attached). Full workflow (incl. quote-cards):
 `sub-skills/illustration.md`. No Pixfaro key -> it drafts the prompt for you to generate manually.
 ## Related skills
 
