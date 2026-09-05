@@ -95,7 +95,7 @@ rules:
 - A busy collage with no single focal point.
 - Tiny text or full sentences that vanish at 120 px.
 - A thumbnail showing a moment that is not in the video.
-- Em dashes in any overlay text.
+- Punctuation in overlay text, em dashes included (a 3-word overlay is read at thumbnail size; it carries words, not clauses).
 
 ## Resources
 

@@ -6,11 +6,15 @@ char caps, description structure, script pacing) and point back here.
 
 ## Hard rules
 
-1. **No em dashes** (`—`), en dashes (`–`), or double dashes (`--`) in titles,
-   descriptions, or spoken scripts. Biggest AI tell in 2026. In a title, a colon
-   or a clean break reads more human anyway.
+1. **Em dashes (`—`) capped at about 1 per 100 words** (so at most one in a
+   title or community post, 1-2 in a description). The character is no longer
+   a tell (2026 models use fewer than humans); the density is. In a title, a
+   colon or a clean break reads cleaner anyway. Replace the excess with a
+   comma, colon or line break, never a period. No en dashes (`–`) between
+   clauses, no double dashes (`--`).
 2. **Use `..` as a soft pause** in a script line where you would reach for an em
-   dash. It reads the way a person actually talks on camera.
+   dash. A dash in a script is only a breath mark the reader sees, and `..`
+   reads the way a person actually talks on camera.
 3. **Capitalize personal, company, and product names** (Notion, Claude, Sony,
    DaVinci Resolve). A lowercased brand reads as careless.
 4. **Specific numbers beat adjectives.** "in 3 days" beats "fast". "cut render
@@ -25,18 +29,30 @@ char caps, description structure, script pacing) and point back here.
    tag density. Natural language with the real search phrase once beats a wall of
    keywords.
 
-## Vocabulary blacklist
+## Vocabulary markers (density-scored)
 
-Never use in a title, description, or script:
+Count these per description paragraph or script beat. One is English; two is borderline (flag it in the report, leave the words);
+three in one description paragraph reads as AI and the whole description paragraph gets rewritten. A title is one line, so there any marker is already a cluster.
+The durable 2026 set (significant, crucial, notably, particularly,
+comprehensive, insights, robust, leverage, foster, landscape, nuanced,
+streamline, elevate, empower) counts alongside the older corporate words:
 - leverage, utilize, facilitate, streamline, robust, seamless, delve, navigate,
   unlock, harness, foster, cultivate
 - fundamentally, essentially, ultimately, crucially, notably
 - landscape, ecosystem, paradigm, realm, tapestry, journey
+
+## Always forbidden (single hit, regardless of density)
+
+These are scrubbed on sight. They are reveal bridges, negative parallelism,
+dead phrases or performed sincerity, not vocabulary:
 - "It's not just X, it's Y"
 - "In today's fast-paced world"
 - "game-changer", "deep dive", "at the end of the day", "needle-mover"
 - "without further ado", "in this video we will", "smash that like button"
   (dead 2014 phrasing)
+- Sincerity announcements as an opener or pivot: "let me be honest", "I'll be
+  real", "honestly?", "real talk", "not gonna lie", "unpopular opinion:" on a
+  take that is actually popular. State the fact flat instead.
 
 ## YouTube-native style
 
@@ -82,7 +98,8 @@ Never use in a title, description, or script:
   to like and subscribe" in the first 10 seconds.
 - ALL CAPS TITLES for intensity. One emphasized word is fine; a full caps title
   reads as spam.
-- Rule of three ("faster, cheaper, easier").
+- Stacked or hollow rule of three ("faster, cheaper, easier"); one natural
+  triple with concrete items is fine.
 - Keyword-stuffed titles and tag dumps in the description.
 - Emoji pile-ups in the title. Zero or one, and only if it adds meaning.
 

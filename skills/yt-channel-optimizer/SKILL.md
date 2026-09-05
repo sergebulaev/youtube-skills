@@ -108,7 +108,7 @@ rules:
   before "more"). Lead with the viewer's benefit, not a mission statement.
 - Real search phrases in natural sentences. Never a comma-separated keyword dump.
 - One primary link. A wall of links dilutes the click.
-- No em dashes. No "leverage", "fundamentally", "unlock".
+- At most one em dash in the About text (about one per 100 words). No "leverage", "fundamentally", "unlock".
 
 ## Related skills
 

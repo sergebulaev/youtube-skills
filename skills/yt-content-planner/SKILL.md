@@ -78,7 +78,7 @@ rules:
 - Five slots that are all the same pillar and the same goal.
 - Shorts with no connection to the long-form library.
 - "Post more" as a plan, with no per-slot pairing.
-- Em dashes anywhere in the plan.
+- Em dashes above the cap (about one per 100 words) in any drafted title or hook line.
 
 ## Resources
 

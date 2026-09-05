@@ -48,8 +48,13 @@ and Y2/Y4/Y6 read weaker in the business/creator niche (noted in the reference).
    - One specific number where the claim allows it.
    - Curiosity AND a concrete noun. Never pure mystery, never a dry label.
    - Complements a thumbnail (note what the thumbnail should carry instead).
-   - No em dashes, no ALL CAPS, 0 to 1 emoji.
-5. **Humanizer pass.** Strip AI vocabulary, rule-of-three, and any em dash.
+   - At most one em dash, and a title rarely wants one (a colon reads cleaner);
+     no ALL CAPS, 0 to 1 emoji.
+5. **Humanizer pass.** Scrub 2026 AI vocabulary (a title is one line: any
+   marker such as "leverage" or "game-changer" gets replaced), break stacked
+   or hollow rule-of-three, strip reveal bridges ("Here's what nobody tells
+   you") and sincerity framing ("honestly?", "real talk"). Replace an excess
+   em dash with a colon, never a period.
 6. **Tag each variant** with its formula, char count, and primary goal, and flag
    the one to lead the Test & Compare with.
 7. **Approval card.** Show the variants with char counts. The user picks or asks
@@ -75,7 +80,7 @@ rules:
 - Clickbait the video does not honor ("you won't believe what happened").
 - ALL CAPS titles or 3+ emoji for fake intensity.
 - Keyword-stuffing the title to chase search.
-- Em dashes anywhere.
+- More than one em dash in a title, or a dash where a colon does the job.
 - Vague mystery with no concrete noun ("This changes everything").
 - Repeating the thumbnail's words in the title.
 

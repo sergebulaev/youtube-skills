@@ -24,10 +24,14 @@ Run every title through this before it goes on the approval card.
 
 ## Voice and tells
 
-- [ ] No em dashes (`—`), en dashes (`–`), or double dashes (`--`).
+- [ ] At most one em dash (`—`), and a title rarely wants one (a colon reads
+      cleaner). No en dashes (`–`) between clauses, no double dashes (`--`).
 - [ ] No ALL CAPS for intensity (one emphasized word is fine).
 - [ ] 0 to 1 emoji, and only if it adds meaning.
-- [ ] No AI vocabulary (leverage, fundamentally, game-changer, deep dive).
+- [ ] No AI vocabulary in the title (a title is one line, so one marker such as
+      leverage, fundamentally, game-changer or deep dive is already a cluster).
+- [ ] No reveal bridge ("Here's what nobody tells you") or sincerity framing
+      ("honestly?", "real talk") in the title.
 - [ ] No keyword stuffing. The search phrase appears once, naturally.
 
 ## The variant set

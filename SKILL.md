@@ -97,7 +97,7 @@ upload and schedule through Publora normally.
 
 ## Voice rules (baked into every skill)
 
-1. No em dashes (`—`), en dashes, or double dashes. Biggest AI tell.
+1. Em dashes (`—`) capped at about 1 per 100 words (at most one in a title or community post; `..` in a spoken line); replace the excess with a comma, colon or line break, never a period. No en dashes between clauses, no double dashes.
 2. Use `..` as a soft pause in a script line when rhythm calls for it.
 3. Capitalize all personal, company, and product names.
 4. Specific numbers beat adjectives. "in 28 days" beats "fast".
@@ -105,7 +105,7 @@ upload and schedule through Publora normally.
 6. Title and thumbnail are a pair. They never repeat the same words.
 7. The first 30 seconds (or 3 on a Short) is the real algorithm. No intro.
 8. Title caps at 100 chars (sweet spot 40 to 60). Description caps at 5,000, first 150 visible.
-9. Avoid AI vocabulary: `leverage`, `fundamentally`, `streamline`, `harness`, `delve`, `unlock`, `foster`.
+9. Avoid AI vocabulary clusters: one 2026 marker (`leverage`, `significant`, `streamline`, `foster`) in a paragraph is English, three in one paragraph reads as AI and the paragraph gets rewritten; in a one-line title any marker goes. No sincerity openers ("let me be honest", "not gonna lie").
 10. Do not keyword-stuff. Natural language with the real search phrase once.
 
 (Canonical reference: `references/voice-rules.md`. See also

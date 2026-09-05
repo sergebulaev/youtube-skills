@@ -43,8 +43,13 @@ links. This skill writes all three layers.
 5. **Add the furniture.** Links section, socials, a one-line CTA (subscribe for
    the specific reason, not "smash like"), and 3 to 5 relevant hashtags at the
    very end (the first 3 surface above the title).
-6. **Humanizer pass and length check.** Strip AI vocabulary and em dashes; keep
-   the whole thing under 5,000 chars. Confirm the first 150 read well truncated.
+6. **Humanizer pass and length check.** Scrub 2026 AI vocabulary by paragraph
+   density (one marker is fine; three in one paragraph means rewrite it), cap
+   em dashes at about one per 100 words (replace the excess with a comma,
+   colon or line break, never a period), strip reveal bridges and sincerity
+   openers ("let me be honest"); never add a hedge or confession the creator
+   did not write. Keep the whole thing under 5,000 chars. Confirm the first
+   150 read well truncated.
 7. **Approval card.** Show the description with a marked 150-char cutoff and the
    total char count.
 8. **On approval.** This description is the `content` passed to
@@ -68,7 +73,7 @@ rules:
 - A boilerplate greeting in the first 150 chars.
 - A keyword dump or a tag wall pretending to be a description.
 - 15+ hashtags (YouTube strips them all).
-- Em dashes anywhere.
+- Em dashes above the cap (more than about one per 100 words), or an em dash swapped for a period.
 - "Smash that like button and subscribe" dead phrasing.
 - Chapters that do not start at `0:00` (the UI will not render them).
 - Raw unlabeled links.

@@ -49,8 +49,13 @@ limitation of the draft tier. (Videos and Shorts do auto-upload through Publora.
    - One clear ask: vote, comment a specific thing, or watch the linked video.
    - For a poll: a clear question plus 2 to 4 tight options. No false dilemmas.
    - Keep it short. The community tab rewards low-friction, not essays.
-4. **Humanizer pass.** Strip AI vocabulary, em dashes, and rule-of-three. Sound
-   like the creator, not a brand account.
+4. **Humanizer pass.** Scrub 2026 AI vocabulary by density (one marker such as
+   "leverage" or "significant" is fine; three in one post means rewrite the
+   post), cap em dashes (a community post is short, so at most one, never
+   swapped for a period), break stacked or hollow rule-of-three, strip reveal
+   bridges ("The result?", "Here's what") and sincerity openers ("not gonna
+   lie", "let me be honest"). Never add a hedge or a confession the creator did
+   not write. Sound like the creator, not a brand account.
 5. **Approval card.** Show the post (and poll options) and the target Community
    tab URL.
 6. **On approval.** Call `lib.publish(kind="community", draft_text=<post>,
@@ -74,7 +79,8 @@ rules:
 - Two competing asks in one post.
 - A poll with a false dilemma or 6+ options.
 - Engagement bait ("like if you agree, comment if you don't").
-- Em dashes anywhere.
+- More than one em dash in a post, or an em dash swapped for a period.
+- Announced candor ("let me be honest", "not gonna lie") with no dated fact behind it.
 - "Don't forget to smash subscribe" dead phrasing.
 
 ## Resources

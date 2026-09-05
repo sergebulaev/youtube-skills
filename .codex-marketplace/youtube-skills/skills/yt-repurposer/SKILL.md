@@ -59,8 +59,10 @@ already have (use `yt-title-optimizer`).
 7. **Scrub instead of a humanizer pass.** There is no `yt-humanizer`. Lean on the
    receiving writer skill's own scrub: `yt-community-post-writer`,
    `yt-title-optimizer`, `yt-hook-scripter`, and `yt-description-writer` each
-   strip AI vocabulary, em dashes, and rule-of-three before they return. Keep the
-   source's real numbers and named entities through the hand-off.
+   scrub 2026 AI vocabulary by density, cap em dashes (about one per 100
+   words, never swapped for a period), break stacked rule-of-three, and strip
+   reveal bridges and sincerity openers before they return. Keep the source's
+   real numbers and named entities through the hand-off.
 8. **Approval card.** Show: source -> YouTube mapping (what became what), the
    target surface (community post / poll, or the title + hook + description
    brief), the hook formula used, and the primary goal.
@@ -108,9 +110,10 @@ rules:
 - Opening a video brief with "In this video I'm going to.." instead of the payoff.
 - A community post that is a wall of text where the tab wants one or two lines.
 - ALL CAPS for intensity. Carry it with word choice.
-- Em dashes anywhere.
-- Rule-of-three lists without specifics.
-- "leverage", "fundamentally", "streamline", "harness", "delve".
+- Em dashes above the cap (more than about one per 100 words), or an em dash swapped for a period.
+- Stacked or hollow rule-of-three lists without specifics.
+- AI vocabulary clusters (three markers such as "leverage", "fundamentally", "streamline" in one paragraph).
+- Announced candor ("let me be honest", "not gonna lie") with no dated fact behind it.
 - Engagement bait ("comment 1 for yes").
 
 ## Resources

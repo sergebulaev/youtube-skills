@@ -51,8 +51,13 @@ Full skeletons in `../../references/hook-formulas.md`.
    loop line.
 5. **Strip the intro.** Cut any "welcome back", logo sting, or channel-trailer
    reflex. The hook is the first thing the viewer hears.
-6. **Humanizer pass.** Remove AI vocabulary, em dashes, and rule-of-three; use
-   `..` for a spoken pause instead of a dash.
+6. **Humanizer pass.** Scrub 2026 AI vocabulary by density (one marker in a
+   beat is a slip; three is a script, rewrite the beat), break stacked or
+   hollow rule-of-three, strip reveal bridges ("Here's what nobody tells you")
+   and sincerity openers ("not gonna lie", "let me be honest"); use `..` for a
+   spoken pause instead of a dash on the teleprompter. Make it sayable; never
+   insert a punch line or a "No X. No Y. Just Z." beat for rhythm, and never
+   add a hedge the creator did not write.
 7. **Approval card.** Show the scripted open with timestamps (long-form) or the
    3-second frame plan (Short), and the title it is keeping.
 8. **On approval.** This is a script the user performs; it is not published by
@@ -70,7 +75,8 @@ rules:
 - Short: the payoff or tension lands on frame one (second 0 to 1), with on-screen
   text so it works muted. Design the ending to loop back to the start.
 - The opening can never promise more than the video delivers. Honor the click.
-- Use `..` for a spoken pause, never an em dash (it leaks into a teleprompter).
+- Use `..` for a spoken pause. A dash in a script is only a breath mark the
+  reader sees, not a tell, but `..` reads better on a teleprompter.
 
 ## Anti-patterns (skill will refuse)
 
@@ -78,7 +84,8 @@ rules:
 - A 15-second intro animation before the first word of value.
 - A cold open that teases a moment not actually in the video.
 - "Make sure to like and subscribe" inside the first 30 seconds.
-- Em dashes in a line meant to be read aloud.
+- A "No X. No Y. Just Z." staccato stack or "The result?" reveal inserted for punch.
+- Announced candor ("let me be honest", "not gonna lie") with no specific fact behind it.
 - A Short that opens with a slow zoom or a logo instead of the payoff.
 
 ## Resources

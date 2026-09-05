@@ -155,8 +155,8 @@ two links are where this bundle spends its effort.
 
 - [ ] Title under 100 chars (aim 40 to 60), click-deciding words front-loaded.
 - [ ] Title and thumbnail complement each other and do not repeat words.
-- [ ] No em dashes (`—`), en dashes (`–`), or double dashes (`--`) anywhere.
-- [ ] No AI vocabulary blacklist words (leverage, fundamentally, delve, etc.).
+- [ ] Em dashes (`—`) under the cap: at most one in the title, about one per 100 words in the description (never swap one for a period); no en dashes (`–`) between clauses or double dashes (`--`).
+- [ ] No AI vocabulary cluster (3+ markers in one paragraph: leverage, fundamentally, significant, etc.; any marker in a one-line title).
 - [ ] At least one specific number in the title or first description line.
 - [ ] First 150 chars of the description hook and carry the search phrase once.
 - [ ] Chapters added if the video has clear sections.

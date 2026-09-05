@@ -216,9 +216,9 @@ Setup: drop `PIXFARO_TOKEN=pf_live_...` into your `.env`. The thin client at `li
 
 Every skill follows these rules automatically:
 
-1. No em dashes. Biggest AI tell in 2026.
+1. Em dashes capped at about one per 100 words (at most one in a title). The character stopped being a tell in 2026; the density is.
 2. Capitalize names. Always. Lowercase a brand reads as careless.
-3. No AI vocabulary: "leverage", "fundamentally", "streamline", "harness", "delve", "unlock", "foster".
+3. No AI vocabulary clusters. One 2026 marker ("leverage", "significant", "streamline", "foster") in a paragraph is English; three in one paragraph reads as AI and gets the paragraph rewritten. In a one-line title any marker goes.
 4. Specific numbers beat adjectives. "in 28 days" beats "fast".
 5. The title is a promise, not a summary. Curiosity plus a concrete payoff.
 6. Title and thumbnail are a pair. They never repeat the same words.
