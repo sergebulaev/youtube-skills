@@ -165,6 +165,8 @@ By default, the skills draft everything for you to paste into YouTube Studio. If
 
 [Publora](https://publora.com) is a publishing API that turns one flow (`create-post`, `get-upload-url`, `update-post`) into a scheduled YouTube upload, and can cross-post the same content to other platforms.
 
+Publora also ships [official MCP skills](https://github.com/publora/skills) (`npx skills add publora/skills`): one skill per platform, covering the publish side only. This bundle is the layer above them, adding the reading, the writing craft and the approval flow.
+
 ### Setup (2 minutes)
 
 **Step 1.** Sign up at https://app.publora.com/signup (free)
