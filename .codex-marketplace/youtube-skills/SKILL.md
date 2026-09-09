@@ -1,6 +1,6 @@
 ---
 name: youtube-marketing
-description: Plan, write, and publish for YouTube and YouTube Shorts. Use when the user wants high-CTR video titles, an SEO description with chapters and links, a first-30-seconds retention script (or a 3-second Shorts hook), a designer-ready thumbnail brief, a community-tab post or poll, or a weekly upload plan. The user supplies the video; the skills produce the title, description, hook, and thumbnail brief, then on approval upload and schedule via the Publora API.
+description: "Plan, write, and publish for YouTube and YouTube Shorts. Use when the user wants high-CTR video titles, an SEO description with chapters and links, a first-30-seconds retention script (or a 3-second Shorts hook), a designer-ready thumbnail brief, a community-tab post or poll, or a weekly upload plan. The user supplies the video; the skills produce the title, description, hook, and thumbnail brief, then on approval upload and schedule via the Publora API."
 ---
 
 # YouTube Marketing Skills

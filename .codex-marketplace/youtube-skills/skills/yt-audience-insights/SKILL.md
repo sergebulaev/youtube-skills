@@ -1,6 +1,6 @@
 ---
 name: yt-audience-insights
-description: Read your YouTube audience from the comments: pull commenters and top comments on any video, surface recurring questions and themes (content ideas), repeat commenters (superfans), sentiment, and which comments to reply to or pin. Also channel stats and niche trending, via the free official YouTube Data API. Triggers on "who commented on my video", "analyze my comments", "audience insights", "trending on YouTube". Not for writing a community post (use yt-community-post-writer).
+description: "Read your YouTube audience from the comments: pull commenters and top comments on any video, surface recurring questions and themes (content ideas), repeat commenters (superfans), sentiment, and which comments to reply to or pin. Also channel stats and niche trending, via the free official YouTube Data API. Triggers on \"who commented on my video\", \"analyze my comments\", \"audience insights\", \"trending on YouTube\". Not for writing a community post (use yt-community-post-writer)."
 ---
 
 # YouTube Audience Insights

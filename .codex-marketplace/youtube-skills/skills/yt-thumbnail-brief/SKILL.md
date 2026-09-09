@@ -1,6 +1,6 @@
 ---
 name: yt-thumbnail-brief
-description: Turn a YouTube video idea into a designer-ready thumbnail brief: focal subject, face and emotion, a text overlay of 4 words or fewer that the title does not repeat, contrast and composition, and 2 to 3 A/B concepts for Test and Compare. Built on 2026 principles (one focal point, legible at 120 pixels, complements the title). Outputs the brief plus the Publora attach step (the image upload itself is out of band). Use to plan a thumbnail. Not for title words (use yt-title-optimizer).
+description: "Turn a YouTube video idea into a designer-ready thumbnail brief: focal subject, face and emotion, a text overlay of 4 words or fewer that the title does not repeat, contrast and composition, and 2 to 3 A/B concepts for Test and Compare. Built on 2026 principles (one focal point, legible at 120 pixels, complements the title). Outputs the brief plus the Publora attach step (the image upload itself is out of band). Use to plan a thumbnail. Not for title words (use yt-title-optimizer)."
 ---
 
 # YouTube Thumbnail Brief

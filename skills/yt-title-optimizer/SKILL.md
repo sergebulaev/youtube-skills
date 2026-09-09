@@ -1,6 +1,6 @@
 ---
 name: yt-title-optimizer
-description: Write high-CTR YouTube and YouTube Shorts titles under 100 characters using 2026 packaging formulas (curiosity-gap, number, how-I outcome, mistake/loss, transformation, versus). Balances curiosity with a real keyword, front-loads the click-deciding words for the 60-char mobile cutoff, and returns 3 to 5 A/B variants tagged by goal for Test and Compare. Use to title or rework a video. Not for the description (use yt-description-writer) or the thumbnail overlay (use yt-thumbnail-brief).
+description: "Write high-CTR YouTube and YouTube Shorts titles under 100 characters using 2026 packaging formulas (curiosity-gap, number, how-I outcome, mistake/loss, transformation, versus). Balances curiosity with a real keyword, front-loads the click-deciding words for the 60-char mobile cutoff, and returns 3 to 5 A/B variants tagged by goal for Test and Compare. Use to title or rework a video. Not for the description (use yt-description-writer) or the thumbnail overlay (use yt-thumbnail-brief)."
 ---
 
 # YouTube Title Optimizer

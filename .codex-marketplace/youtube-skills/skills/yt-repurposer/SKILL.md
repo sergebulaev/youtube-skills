@@ -1,6 +1,6 @@
 ---
 name: yt-repurposer
-description: Repurpose off-platform content into a native YouTube surface. Take a blog, X thread, LinkedIn post, or newsletter and turn it into a community post or poll, or a video brief (title, spoken hook, description with chapters). Leads with the payoff, converts listicles into chapters, strips off-platform artifacts, publishes via Publora on approval. Not for a fresh community post (use yt-community-post-writer), not for a hook script (use yt-hook-scripter).
+description: "Repurpose off-platform content into a native YouTube surface. Take a blog, X thread, LinkedIn post, or newsletter and turn it into a community post or poll, or a video brief (title, spoken hook, description with chapters). Leads with the payoff, converts listicles into chapters, strips off-platform artifacts, publishes via Publora on approval. Not for a fresh community post (use yt-community-post-writer), not for a hook script (use yt-hook-scripter)."
 ---
 
 # YouTube Repurposer

@@ -1,6 +1,6 @@
 ---
 name: yt-community-post-writer
-description: Write YouTube community-tab posts: text updates, polls, image-caption posts, and questions that drive comments and bring subscribers back between video uploads. Tuned to the community tab's role as a low-friction touchpoint that keeps a channel warm and feeds session signals. Returns a copy-paste block (community posts have no publishing API, so this is always manual by design). Use to write a community post or poll. Not for video titles or descriptions (use yt-title-optimizer and yt-description-writer).
+description: "Write YouTube community-tab posts: text updates, polls, image-caption posts, and questions that drive comments and bring subscribers back between video uploads. Tuned to the community tab's role as a low-friction touchpoint that keeps a channel warm and feeds session signals. Returns a copy-paste block (community posts have no publishing API, so this is always manual by design). Use to write a community post or poll. Not for video titles or descriptions (use yt-title-optimizer and yt-description-writer)."
 ---
 
 # YouTube Community Post Writer

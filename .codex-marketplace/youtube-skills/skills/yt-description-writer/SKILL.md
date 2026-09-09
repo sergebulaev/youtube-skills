@@ -1,6 +1,6 @@
 ---
 name: yt-description-writer
-description: Write a full YouTube video description under 5,000 characters with a first-150-character hook (the only part visible before Show more, and what shows in search and suggested), timestamped chapters, naturally placed keywords, links, and a clear call to action. Covers long-form and YouTube Shorts. Becomes the create-post content that publishes with the video. Use to write or rework a description. Not for the title (use yt-title-optimizer) or the spoken opening (use yt-hook-scripter).
+description: "Write a full YouTube video description under 5,000 characters with a first-150-character hook (the only part visible before Show more, and what shows in search and suggested), timestamped chapters, naturally placed keywords, links, and a clear call to action. Covers long-form and YouTube Shorts. Becomes the create-post content that publishes with the video. Use to write or rework a description. Not for the title (use yt-title-optimizer) or the spoken opening (use yt-hook-scripter)."
 ---
 
 # YouTube Description Writer

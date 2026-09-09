@@ -1,6 +1,6 @@
 ---
 name: yt-hook-scripter
-description: Script the spoken opening that decides retention: the first 30 seconds of a long-form YouTube video or the first 3 seconds of a YouTube Short. Uses 2026 patterns (restate-and-raise, cold-open payoff tease, question-and-contract, and the 3-second frame-one Shorts hook with a designed loop) to confirm the title's promise, open a loop, and earn the next 30 seconds with no intro. Use to write or fix a video opening. Not for the title (use yt-title-optimizer) or description (use yt-description-writer).
+description: "Script the spoken opening that decides retention: the first 30 seconds of a long-form YouTube video or the first 3 seconds of a YouTube Short. Uses 2026 patterns (restate-and-raise, cold-open payoff tease, question-and-contract, and the 3-second frame-one Shorts hook with a designed loop) to confirm the title's promise, open a loop, and earn the next 30 seconds with no intro. Use to write or fix a video opening. Not for the title (use yt-title-optimizer) or description (use yt-description-writer)."
 ---
 
 # YouTube Hook Scripter

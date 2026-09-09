@@ -1,6 +1,6 @@
 ---
 name: yt-channel-optimizer
-description: Audit and rewrite a YouTube channel end-to-end for 2026: name and @handle, banner (2560x1440 with the 1235x338 mobile/TV safe area), profile picture, About plus searchable keywords, trailer for non-subscribers vs featured video for subscribers, sections and playlist layout, watermark, links. Triggers on "optimize my YouTube channel", "rewrite my channel about", "fix my banner", "channel audit", "set my trailer". Converts a viewer into a subscriber. Not for writing a video title (use yt-title-optimizer).
+description: "Audit and rewrite a YouTube channel end-to-end for 2026: name and @handle, banner (2560x1440 with the 1235x338 mobile/TV safe area), profile picture, About plus searchable keywords, trailer for non-subscribers vs featured video for subscribers, sections and playlist layout, watermark, links. Triggers on \"optimize my YouTube channel\", \"rewrite my channel about\", \"fix my banner\", \"channel audit\", \"set my trailer\". Converts a viewer into a subscriber. Not for writing a video title (use yt-title-optimizer)."
 ---
 
 # YouTube Channel Optimizer

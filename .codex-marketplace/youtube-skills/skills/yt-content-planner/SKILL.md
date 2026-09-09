@@ -1,6 +1,6 @@
 ---
 name: yt-content-planner
-description: Build a weekly YouTube upload plan: long-form vs YouTube Shorts mix, posting cadence, per-slot title and thumbnail pairing, hook angle, community-tab posts between uploads, and a goal balance across CTR, retention, and subscribes. Maps Shorts as top-of-funnel that points at long-form, and long-form as the loyalty and watch-time engine. Use to plan a week or a content calendar instead of shipping ad hoc. Not for writing a single title, description, or hook (use the dedicated yt skills).
+description: "Build a weekly YouTube upload plan: long-form vs YouTube Shorts mix, posting cadence, per-slot title and thumbnail pairing, hook angle, community-tab posts between uploads, and a goal balance across CTR, retention, and subscribes. Maps Shorts as top-of-funnel that points at long-form, and long-form as the loyalty and watch-time engine. Use to plan a week or a content calendar instead of shipping ad hoc. Not for writing a single title, description, or hook (use the dedicated yt skills)."
 ---
 
 # YouTube Content Planner
