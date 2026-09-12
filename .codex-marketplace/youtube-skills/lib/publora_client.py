@@ -276,7 +276,13 @@ class PubloraClient:
             it in the Publora dashboard). Without that asset, leave thumbnail
             unset and set it later in YouTube Studio.
         """
-        yt: dict[str, Any] = {"title": title[:TITLE_MAX], "privacy": privacy}
+        if len(title) > TITLE_MAX:
+            raise PubloraError(
+                f"title is {len(title)} characters; YouTube allows {TITLE_MAX}. "
+                "Shorten it and re-approve rather than publishing a title the "
+                "user did not see."
+            )
+        yt: dict[str, Any] = {"title": title, "privacy": privacy}
         if tags:
             yt["tags"] = tags
         if category_id:
