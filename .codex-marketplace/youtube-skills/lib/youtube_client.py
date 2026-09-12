@@ -33,6 +33,7 @@ from collections import OrderedDict
 from typing import Any, Optional
 
 import requests
+from ._env import load_env
 
 API_BASE = "https://www.googleapis.com/youtube/v3"
 RETRYABLE_STATUSES = {429, 500, 502, 503, 504}
@@ -82,6 +83,7 @@ def _extract_video_id(video: str) -> str:
 
 class YouTubeClient:
     def __init__(self, api_key: Optional[str] = None, timeout: int = 20):
+        load_env()
         self.api_key = api_key or os.environ.get("YOUTUBE_API_KEY")
         self.timeout = timeout
         self._cache: "OrderedDict[str, tuple[float, Any]]" = OrderedDict()
