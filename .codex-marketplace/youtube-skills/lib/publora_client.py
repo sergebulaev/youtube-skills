@@ -158,6 +158,12 @@ class PubloraClient:
         """
         if not content or not content.strip():
             raise PubloraError("content is required (cannot be empty or whitespace)")
+        if len(content) > DESCRIPTION_MAX:
+            raise PubloraError(
+                f"description is {len(content)} characters; YouTube allows "
+                f"{DESCRIPTION_MAX}. Shorten it and re-approve rather than "
+                "discovering this after the upload."
+            )
         if not platforms:
             raise PubloraError("at least one platform ID is required")
         payload: dict[str, Any] = {"content": content, "platforms": platforms}

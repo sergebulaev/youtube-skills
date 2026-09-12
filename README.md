@@ -208,7 +208,7 @@ If Publora returns a `postGroupId`, you're set. Cancel the post in the Publora d
 
 ## Optional: generate illustrations with Pixfaro
 
-The thumbnail drives click-through more than anything else. The Community Post Writer can generate a 16:9 thumbnail with bold overlay text and attach it automatically. Without a key it drafts the image prompt and asks you to generate it yourself, so nothing breaks.
+The thumbnail drives click-through more than anything else. The Community Post Writer can generate a 16:9 image with bold overlay text, but the community tab has no media API, so you upload the approved image yourself with the post. Without a key it drafts the image prompt and asks you to generate it yourself, so nothing breaks.
 
 [Pixfaro](https://pixfaro.com) is a single image API over multiple models (from `flux-schnell` at $0.004 to `gpt-5-image`). It composites your handle, brand color, or logo onto the image as a **pixel-exact overlay**, so a cheap base model still renders crisp text on a thumbnail. Pull those brand fields from your [Voice & Brand Profile](references/voice-profile.md) (section 6) and every asset stays on-brand.
 

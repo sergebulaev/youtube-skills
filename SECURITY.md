@@ -32,11 +32,11 @@ disclosure decision within 14 days.
 
 ## Scope notes
 
-- This bundle never ships hardcoded credentials. API tokens (Apify,
-  Publora) are read from environment variables or `.env` files that are
+- This bundle never ships hardcoded credentials. API tokens (YouTube Data
+  API, Publora, Pixfaro) are read from environment variables or `.env` files that are
   gitignored; see `.env.example`.
-- Scripts in `lib/` and `scripts/` perform HTTP calls only to the Apify
-  and Publora APIs and never execute shell commands built from remote
-  content.
+- Scripts in `lib/` perform HTTP calls only to the YouTube Data API
+  (`googleapis.com`), Publora and Pixfaro, and never execute shell commands
+  built from remote content. There is no Apify integration in this bundle.
 - Please do not test vulnerabilities against third-party services
-  (YouTube, Apify, Publora) outside their own disclosure programs.
+  (YouTube, Publora, Pixfaro) outside their own disclosure programs.
