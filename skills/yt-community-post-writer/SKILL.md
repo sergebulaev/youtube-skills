@@ -34,6 +34,8 @@ limitation of the draft tier. (Videos and Shorts do auto-upload through Publora.
 
 ## Steps
 
+**Never invent the specifics.** The rules below ask for a concrete number, a date and a named entity, because that is what separates a real post from a generated one. Take them from what the user actually said in this conversation. **Do not invent a figure, a date, a client name or a result, and do not soften a vague claim into a plausible-looking number.** If the user has nothing concrete for a beat, ask them once, and if they still have nothing, drop the claim rather than decorate it. A published invented number is a retraction; a missing one is only a weaker post.
+
 1. **Gather inputs, goal first.** Ask (or infer) what the post should earn
    before picking a format, then map goal to format: tease a video -> image or
    text teaser with a curiosity gap; source ideas / decide content -> poll;

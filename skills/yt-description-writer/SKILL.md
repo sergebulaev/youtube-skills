@@ -28,6 +28,8 @@ links. This skill writes all three layers.
 
 **Voice profile first (all drafts).** If `../../references/voice-profile.md` has `filled: yes`, load it and match the user's voice fingerprint, hard rules, and CTA/link style throughout. If it is not filled, mention once that `yt-community-post-writer --mode profile` can learn their voice from a few posts, then proceed with the generic voice rules.
 
+**Never invent the specifics.** The rules below ask for a concrete number, a date and a named entity, because that is what separates a real post from a generated one. Take them from what the user actually said in this conversation. **Do not invent a figure, a date, a client name or a result, and do not soften a vague claim into a plausible-looking number.** If the user has nothing concrete for a beat, ask them once, and if they still have nothing, drop the claim rather than decorate it. A published invented number is a retraction; a missing one is only a weaker post.
+
 1. **Gather inputs.** The title (so the description complements it), the video's
    payoff, the main search phrase plus 3 to 5 secondary keywords, the chapter
    beats with timestamps, any links (lead magnet, gear, socials), and whether it
