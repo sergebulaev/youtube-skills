@@ -40,7 +40,7 @@ load_env()
 BackendName = Literal["publora", "manual", "diy"]
 PublishKind = Literal["video", "short", "community"]
 
-PUBLORA_SIGNUP_URL = "https://app.publora.com/signup"
+PUBLORA_SIGNUP_URL = "https://app.publora.com/signup?utm_source=github&utm_medium=agent&utm_campaign=youtube-skills"
 
 
 def active_backend() -> BackendName:

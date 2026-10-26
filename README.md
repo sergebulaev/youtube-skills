@@ -155,7 +155,7 @@ Every skill shows you a draft first and waits for your OK. Nothing gets publishe
 
 YouTube is a **video-only platform**: every published post needs a single video, which you supply. The skills write the title, description, hook script, and thumbnail brief; you bring the .mp4. Uploading to YouTube on the native Data API means a Google OAuth flow, the resumable-upload protocol, and quota tracking.
 
-This bundle hands that chain to [Publora](https://publora.com). On approval, it creates a draft, uploads your video to S3, sets the title and metadata, and schedules the post, all over a few REST calls. A custom thumbnail can be attached too, but the thumbnail image upload is out of band (Publora dashboard or a dedicated endpoint); the bundle automates the attach step, not the image upload. The writer skills use this on approval.
+This bundle hands that chain to [Publora](https://publora.com/?utm_source=github&utm_medium=readme&utm_campaign=youtube-skills). On approval, it creates a draft, uploads your video to S3, sets the title and metadata, and schedules the post, all over a few REST calls. A custom thumbnail can be attached too, but the thumbnail image upload is out of band (Publora dashboard or a dedicated endpoint); the bundle automates the attach step, not the image upload. The writer skills use this on approval.
 
 ## Optional: auto-upload with Publora
 
@@ -163,13 +163,13 @@ By default, the skills draft everything for you to paste into YouTube Studio. If
 
 ### What is Publora?
 
-[Publora](https://publora.com) is a publishing API that turns one flow (`create-post`, `get-upload-url`, `update-post`) into a scheduled YouTube upload, and can cross-post the same content to other platforms.
+[Publora](https://publora.com/?utm_source=github&utm_medium=readme&utm_campaign=youtube-skills) is a publishing API that turns one flow (`create-post`, `get-upload-url`, `update-post`) into a scheduled YouTube upload, and can cross-post the same content to other platforms.
 
 Publora also ships [official MCP skills](https://github.com/publora/skills) (`npx skills add publora/skills`): one skill per platform, covering the publish side only. This bundle is the layer above them, adding the reading, the writing craft and the approval flow.
 
 ### Setup (2 minutes)
 
-**Step 1.** Sign up at https://app.publora.com/signup (free)
+**Step 1.** Sign up at https://app.publora.com/signup?utm_source=github&utm_medium=readme&utm_campaign=youtube-skills (free)
 
 **Step 2.** Connect YouTube: click **Channels** in the left sidebar, then **Add Channel**, pick **YouTube**, authorize with Google.
 
@@ -347,7 +347,7 @@ YouTube community-tab posts and polls have no Publora endpoint and no public pub
 
 ## References
 
-- [Publora API docs](https://docs.publora.com) - endpoint reference for the publishing layer
+- [Publora API docs](https://docs.publora.com/?utm_source=github&utm_medium=readme&utm_campaign=youtube-skills) - endpoint reference for the publishing layer
 - [YouTube Creator Insider](https://www.youtube.com/@CreatorInsider) - YouTube's own signals on ranking and packaging
 
 ## Who builds this
@@ -360,7 +360,7 @@ This repo is the thin top layer of that stack, open-sourced. The engine undernea
 
 ## License
 
-MIT. Powered by [Publora](https://publora.com).
+MIT. Powered by [Publora](https://publora.com/?utm_source=github&utm_medium=readme&utm_campaign=youtube-skills).
 
 ## Related open-source skill bundles
 
