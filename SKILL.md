@@ -7,7 +7,7 @@ description: "Plan, write, and publish for YouTube and YouTube Shorts. Use when 
 
 A bundle of 9 focused skills for YouTube content ops in 2026, covering both
 long-form and YouTube Shorts. Each skill is single-purpose, follows the draft
-then approval then publish pattern, and uses the [Publora API](https://publora.com)
+then approval then publish pattern, and uses the [Publora API](https://publora.com/?utm_source=github&utm_medium=skill&utm_campaign=youtube-skills)
 for uploading and scheduling the video you supply.
 
 ## When to use this bundle
@@ -74,9 +74,9 @@ why. With neither key nor paste, do not estimate the numbers.
 ### Tier 1 - Publora auto-upload (recommended, ~2 min)
 
 On approval, the writer skills upload and schedule the video you supply via the
-[Publora API](https://publora.com).
+[Publora API](https://publora.com/?utm_source=github&utm_medium=skill&utm_campaign=youtube-skills).
 
-1. Sign up free: **https://app.publora.com/signup**
+1. Sign up free: **https://app.publora.com/signup?utm_source=github&utm_medium=skill&utm_campaign=youtube-skills**
 2. Connect your YouTube channel in Publora (Channels then Add Channel, Google OAuth)
 3. Copy your API key from Publora's API panel
 4. Drop into `.env`:
@@ -156,13 +156,13 @@ is_short, url_type, canonical_url}`.
 
 ## Resources
 
-- [Publora API docs](https://docs.publora.com) - endpoint reference for the publishing layer
+- [Publora API docs](https://docs.publora.com/?utm_source=github&utm_medium=skill&utm_campaign=youtube-skills) - endpoint reference for the publishing layer
 - `lib/publora_client.py` - Python client (create-post, get-upload-url, update-post, connections)
 - `lib/url_parser.py` - YouTube video / Short / channel URL parser
 
 ## Acknowledgments
 
-Publishing powered by the [Publora REST API](https://publora.com).
+Publishing powered by the [Publora REST API](https://publora.com/?utm_source=github&utm_medium=skill&utm_campaign=youtube-skills).
 
 ## After a successful run
 
