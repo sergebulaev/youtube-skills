@@ -74,9 +74,9 @@ _EMBED_RE = re.compile(
     r"(?:https?://)?(?:[\w.]+\.)?youtube\.com/(?:embed|live|v)/(?P<id>" + _VIDEO_ID + r")",
     re.IGNORECASE,
 )
-# /@handle
+# /@handle (supports Unicode handles such as Arabic/CJK as well as ASCII)
 _HANDLE_RE = re.compile(
-    r"(?:https?://)?(?:[\w.]+\.)?youtube\.com/@(?P<handle>[A-Za-z0-9._-]+)",
+    r"(?:https?://)?(?:[\w.]+\.)?youtube\.com/@(?P<handle>[^\s/?&#]+)",
     re.IGNORECASE,
 )
 # /channel/UCxxxx
@@ -86,7 +86,7 @@ _CHANNEL_RE = re.compile(
 )
 # /c/Name  or  /user/Name
 _CUSTOM_RE = re.compile(
-    r"(?:https?://)?(?:[\w.]+\.)?youtube\.com/(?:c|user)/(?P<name>[A-Za-z0-9._-]+)",
+    r"(?:https?://)?(?:[\w.]+\.)?youtube\.com/(?P<kind>c|user)/(?P<name>[^\s/?&#]+)",
     re.IGNORECASE,
 )
 
@@ -150,9 +150,11 @@ def parse_youtube_url(url: str) -> ParsedYouTubeUrl:
 
     m = _CUSTOM_RE.search(text)
     if m:
-        out["handle"] = m.group("name")
+        kind = m.group("kind").lower()
+        name = m.group("name")
+        out["handle"] = name
         out["url_type"] = "channel"
-        out["canonical_url"] = out["canonical_url"] or f"https://www.youtube.com/c/{m.group('name')}"
+        out["canonical_url"] = f"https://www.youtube.com/{kind}/{name}"
         return out
 
     # Bare 11-char video id with no host.

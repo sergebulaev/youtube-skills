@@ -34,6 +34,7 @@ from typing import Any, Optional
 
 import requests
 from ._env import load_env
+from .url_parser import parse_youtube_url
 
 API_BASE = "https://www.googleapis.com/youtube/v3"
 RETRYABLE_STATUSES = {429, 500, 502, 503, 504}
@@ -70,15 +71,13 @@ def _retry(attempts: int = 3, base_delay: float = 0.6):
 
 
 def _extract_video_id(video: str) -> str:
-    """Accept a video id, a watch URL, a youtu.be URL, or a shorts URL."""
-    v = video.strip()
-    if "watch?v=" in v:
-        return v.split("watch?v=")[1].split("&")[0]
-    if "youtu.be/" in v:
-        return v.split("youtu.be/")[1].split("?")[0].split("/")[0]
-    if "/shorts/" in v:
-        return v.split("/shorts/")[1].split("?")[0].split("/")[0]
-    return v  # assume it is already an id
+    """Accept a video id, watch URL, youtu.be URL, shorts/live/embed URL."""
+    v = (video or "").strip()
+    parsed = parse_youtube_url(v)
+    vid = parsed.get("video_id")
+    if isinstance(vid, str) and vid:
+        return vid
+    return v.split("#", 1)[0].split("?", 1)[0]
 
 
 class YouTubeClient:
